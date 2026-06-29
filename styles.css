@@ -1,0 +1,48 @@
+body {  
+    background-color: #EFF7CF;
+    font-family: "Montserrat", sans-serif;
+    color: #732C2C;
+}
+
+h1 {
+    font-family: "Pacifico", cursive;
+    font-size: 3rem;
+    text-align: center;
+    }
+
+header {
+    background-color: #bad9b5;
+    padding: 1rem;
+    text-align: center;
+}
+
+nav a {
+    color: #aba361;
+    text-decoration: none;
+    margin: 0 1rem;
+    font-weight: bold;
+}
+main {
+    padding: 1.5rem 2rem;
+    max-width: 800px;
+    margin: 0 auto;
+}
+.method-title {
+    font-size: 1.5rem;
+    margin-top: 1.5rem;
+    color: #732C2C;
+}
+
+.precio {
+    font-weight: bold;
+    color: #732C2C;
+    margin-left: 0.5rem;
+}
+
+footer {
+    background-color: #bad9b5;
+    font-family: "Roboto", sans-serif;
+    text-align: center;
+    padding: 1rem;
+    margin-top: 2rem;
+}
